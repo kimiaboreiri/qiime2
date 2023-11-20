@@ -1,5 +1,4 @@
 #QIIME
-# installation
 #Installing Miniconda
 
 conda update conda
