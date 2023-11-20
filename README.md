@@ -1,1 +1,1 @@
-# qiime2-tutorial
+# qiime2
