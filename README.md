@@ -1,5 +1,7 @@
-#QIIME
+# QIIME
 #Installing Miniconda
+##https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7920975/ paper that I use for QIIME
+
 
 conda update conda
 #Installing Wget
